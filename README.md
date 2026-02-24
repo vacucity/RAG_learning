@@ -1,4 +1,5 @@
-<img width="1408" height="768" alt="Gemini_Generated_Image_twdcmxtwdcmxtwdc" src="https://github.com/user-attachments/assets/8cf96c93-adba-4828-a3e1-8ae5429c9485" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_twdcmxtwdcmxtwdc" src="https://github.com/user-attachments/assets/8cf96c93-adba-4828-a3e1-8ae5429c9485" />  
+
 ## Introduction 
 
 I first learned about RAG from YouTube [videos](https://www.youtube.com/watch?v=wd7TZ4w1mSw&t=35s).  
